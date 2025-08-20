@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=PoteatAnimRoom,Windows=PoteatAnimRoom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=PoteatAnimRoom,Windows=PoteatAnimRoom,_Debug=PoteatAnimRoom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
