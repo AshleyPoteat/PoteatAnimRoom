@@ -1,0 +1,1 @@
+var gamefiles = ['PoteatAnimRoom.ags', 'acsetup.cfg'];
